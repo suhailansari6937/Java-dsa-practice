@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d5529484-19d9-4a18-8a0b-bf16d87898e2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaProgrammingMnnit.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/ArraysPw.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/Assignments.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/basicArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/findMax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/javaLec03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/kRotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/ques01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/ques05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/reverse_an_array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/sumOfArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/swapping_arrayElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/switchcase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/twoSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayLec04/first01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayLec04Assignment/questions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array_06/first.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array_06/primitiveSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array_Assignment/ques01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BasicsOfJava/HW/findRemainder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BasicsOfJava/HW/simpleInterest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BasicsOfJava/HW/volumeOfSphere.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BasicsOfJava/areaOfCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BasicsOfJava/arithmeticOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BasicsOfJava/doubleDataType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BasicsOfJava/incrementOrDecrement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BasicsOfJava/multipleVariable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BasicsOfJava/percentOf5Sub.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BasicsOfJava/sumOfNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CharDatatype/charData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IfElse_Revision02/HW/absoluteVlaue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IfElse_Revision02/HW/buySell.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IfElse_Revision02/HW/divisibleBy5and3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IfElse_Revision02/HW/howAGoodStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IfElse_Revision02/HW/leapYear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IfElse_Revision02/HW/rectangleProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IfElse_Revision02/HW/threeDigitNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IfElse_Revision02/HW/youngestOfThree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IfElse_Revision02/divisibleby3_5notby_15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IfElse_Revision02/evenOdd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IfElse_Revision02/greaterOfThreenum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IfElse_Revision02/greatestOfThree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IfElse_Revision02/pointLieOnLine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IfElse_Revision02/triangleOrNot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaInput/areaOfCircleWithInput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaInput/hierarchyOfOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaInput/modulo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaInput/sumOfTwoNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lec03/q1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lec03/q2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lec03/q5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lec04/q1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lec04/q2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lec04/q3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lec04/q4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lec04/q5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lec05/bitwiseOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lec05/logicaloperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lec05/q01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lec05/q2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lec05/q2or.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lec05/q3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lec05/q4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Methods07092025/addTwoNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PatternInJava04Lec/asciiValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PatternInJava04Lec/factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PatternInJava04Lec/factorialOfNnumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PatternInJava04Lec/factorialOfNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PatternInJava04Lec/productOfNon0Digits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PatternInJava04Lec/productOfdigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PatternInJava04Lec/reverseOfAdigit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PatternInJava04Lec/sumOfDigit_ofGivenNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PatternInJava04Lec/sumOfEven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pw_Assignment/conditionals/switchq05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RevisionOfPattern/plus_star.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RevisionOfPattern/ultaRightTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/afterMidSem/finding_union.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/afterMidSem/ques01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/afterMidSem/ques2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/afterMidSem/ques3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/afterMidSem/ques4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/afterMidSem/ques5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/afterMidSem/reverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/afterMidSem/revising0011Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrayAssignment02/diamondprint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrayAssignment02/ques01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrayAssignment02/ques02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrayAssignment02/ques02again.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrayAssignment02/ques03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrayAssignment02/ques05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d_Array/assignment2dArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/d_Array/first.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/examPrinting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lec03Loops/allevenNumberto100.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lec03Loops/ap02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lec03Loops/apinNewWay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lec03Loops/atob.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lec03Loops/contingDigits03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lec03Loops/countDigitsAnotherWay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lec03Loops/countDigitsOfNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lec03Loops/displayArithmetic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lec03Loops/findingFactors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lec03Loops/gpPrintingMachine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lec03Loops/hwo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lec03Loops/loopBasics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lec03Loops/loopHomework.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lec03Loops/numDivisibleBy3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lec03Loops/numbers1to100.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lec03Loops/prime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lec03Loops/table.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lec03Loops/whenLoopBreaks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lec03Loops/whilwLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lec03Loops/wowLeet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/methodsInJava/PandC01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/methodsInJava/aPOWb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/methodsInJava/minOf4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/methodsInJava/moreAboutMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/methodsInJava/pAndC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/methodsInJava/pascal_triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/methodsInJava/passingArgument.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/methodsInJava/returnType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/methodsInJava/swap2num.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oops07092025/person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oops07092025/ques01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oops07092025/ques02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oops07092025/ques03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/outsidePackage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/patternPrinting/HWstar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/patternPrinting/diamondPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/patternPrinting/equilateral_triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/patternPrinting/flippedABCD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/patternPrinting/flippedPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/patternPrinting/floyds_Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/patternPrinting/hollowTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/patternPrinting/hwProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/patternPrinting/oppositeTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/patternPrinting/pattern1010.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/patternPrinting/pattern134.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/patternPrinting/pattern_odd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/patternPrinting/printABCD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/patternPrinting/rhombuss.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/patternPrinting/rightTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/patternPrinting/starCross.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/patternPrinting/starPlus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/patternPrinting/starTriangleReverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/patternPrinting/starTriangleReverse02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/patternPrinting/star_Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/someBaiscProblems/factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/someBaiscProblems/fibonacci.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="31zhd8528U1o0aAsqWFAkNI1MTl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.ArraysPw.executor&quot;: &quot;Run&quot;,
+    &quot;Application.assignment2dArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.first.executor&quot;: &quot;Run&quot;,
+    &quot;Application.primitiveSum.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/MCA MNNITA/JavaProgrammingMnnit&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editing.templates&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.26830.84" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d5529484-19d9-4a18-8a0b-bf16d87898e2" name="Changes" comment="" />
+      <created>1756532897207</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1756532897207</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
