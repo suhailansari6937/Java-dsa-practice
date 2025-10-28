@@ -2,11 +2,12 @@ package Lecture30;
 
 public class assignment {
     static int question2(int n, int m){
-        if(m==0){
-            return 0;
+        if(m==1){
+            if(n==1) return n;
+            return n+question2(n-1,m);
         }
-        int sum = question2(question2(n,m-1),1);
-        return sum;
+        int ans = question2(n,m-1);
+        return  ans + question2(ans-1,m-1);
 
     }
     static void ques1(int n ){
@@ -21,7 +22,7 @@ public class assignment {
     }
     static void main(String[] args) {
 //        ques1(10);
-        question2(3,2);
+        System.out.println(question2(4,2));
 
 
     }
